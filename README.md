@@ -1,30 +1,28 @@
 # Sua Despensa
-<div>Aplicação Java desenvolvida para trazer uma mais praticidade ao usuário, na organização da sua despensa. 
-  Com ela, o usuário tem o controle de quais e quantos produtos estão disponíveis, 
-  podendo ainda manipulá-los da maneira que prefrir.
-</div>
+Aplicação Java desenvolvida para trazer mais praticidade na organização da sua despensa. 
+<p>Com ela, o usuário tem o controle de quais e quantos produtos estão disponíveis, podendo ainda manipulá-los da maneira que prefrir.</p>
 
 ## Fucionalidades:
-<div>
+<p>
 <i>Cadastramento:</i> 
   Armazena seus itens em uma lista de forma simples e eficaz
-</div>
-<div>
+</p>
+<p>
 <i>Listagem:</i> 
   Te dá o relatório dos produtos disponíveis na Sua Despensa
-</div>
-<div>
+</p>
+<p>
 <i>Busca de itens pelo índice:</i>
   Te entrega a ordem que seus produtos foram armazenados
-</div>
-<div>
+</p>
+<p>
 <i>Atualização dos itens:</i>
   Te possibilita a modificação dos itens cadastrados
-</div>
-<div>
+</p>
+<p>
 <i>Excluir itens da lista:</i>
   Dá baixa nos produtos que não estão mais na despensa
-</div>
+</p>
 
 <h2>Sobre a execução do projeto:</h2>
 
